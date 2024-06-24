@@ -1,5 +1,5 @@
 from pyray import *
-init_window(800, 450, "Hello")
+init_window(800, 450, "Helo")
 while not window_should_close():
     begin_drawing()
     clear_background(WHITE)
